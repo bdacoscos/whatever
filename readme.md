@@ -1,3 +1,3 @@
 # Hello, world!
 
-- Cats are fuzzy
+- Cats are NOT all fuzzy... think of Devin's cat.
